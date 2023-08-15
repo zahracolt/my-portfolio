@@ -9,7 +9,7 @@ A portfolio single page application using React and lots of love
 Clone the repository using following command or download
 
 ```
-git clone https://github.com/zahracolt/portfolio.git
+git clone https://github.com/zahracolt/my-portfolio.git
 ```
 
 #### To install dependency
